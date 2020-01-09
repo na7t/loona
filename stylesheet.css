@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Ting Tong';
+    src: url('TingTong.eot');
+    src: url('TingTong.eot?#iefix') format('embedded-opentype'),
+        url('TingTong.woff2') format('woff2'),
+        url('TingTong.woff') format('woff'),
+        url('TingTong.ttf') format('truetype'),
+        url('TingTong.svg#TingTong') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Moonlights on the Beach';
+    src: url('MoonlightsontheBeach.eot');
+    src: url('MoonlightsontheBeach.eot?#iefix') format('embedded-opentype'),
+        url('MoonlightsontheBeach.woff2') format('woff2'),
+        url('MoonlightsontheBeach.woff') format('woff'),
+        url('MoonlightsontheBeach.ttf') format('truetype'),
+        url('MoonlightsontheBeach.svg#MoonlightsontheBeach') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atlantide Starlight';
+    src: url('AtlantideStarlight.eot');
+    src: url('AtlantideStarlight.eot?#iefix') format('embedded-opentype'),
+        url('AtlantideStarlight.woff2') format('woff2'),
+        url('AtlantideStarlight.woff') format('woff'),
+        url('AtlantideStarlight.ttf') format('truetype'),
+        url('AtlantideStarlight.svg#AtlantideStarlight') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
